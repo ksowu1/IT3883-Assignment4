@@ -1,9 +1,8 @@
-# Program Name: Assignment3.py
-# Program Name: Assignment1.py
+# Program Name: Program_A.py
 # Course: IT3883/Section W01
 # Student Name: Komi Sowu
-# Assignment Number: Lab 3
-# Due Date: 10/10/2026
+# Assignment Number: Lab 4
+# Due Date: 11/06/2026
 # Purpose: Ask the user to enter a string, send it to Program B, receive the uppercase response, and print it.
 
 import socket
